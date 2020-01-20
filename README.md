@@ -6,4 +6,4 @@
 
 ### [2020-wk1](https://github.com/leekaka/Daily_life/tree/master/wk1)
 
-### [2020-wkw2](https://github.com/leekaka/Daily_life/tree/master/wk2)
+### [2020-wk2](https://github.com/leekaka/Daily_life/tree/master/wk2)
